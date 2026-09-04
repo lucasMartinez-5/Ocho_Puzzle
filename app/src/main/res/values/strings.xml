@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Ocho Puzzle</string>
     <string name="appTitle">Ocho Puzzle</string>
+<<<<<<< HEAD
     <string name="playerX">Turno del Jugador X</string>
     <string name="playerO">Turno del Jugador O</string>
     <string name="playerXwin">Ganó el Jugador X</string>
@@ -10,4 +11,6 @@
     <string name="Disorder">Desordenar</string>
     <string name="Verify">Verificar</string>
     <string name="mensaje">Mensaje</string>
+=======
+>>>>>>> 11a1e5e876a5a999e80483ad2f37f9b12463e7eb
 </resources>

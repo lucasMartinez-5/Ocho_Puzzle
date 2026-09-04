@@ -22,6 +22,10 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Ocho_Puzzle"
+=======
+rootProject.name = "Ocho Puzzle"
+>>>>>>> 11a1e5e876a5a999e80483ad2f37f9b12463e7eb
 include(":app")
  

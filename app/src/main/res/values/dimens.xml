@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="textSizeTitle">30sp</dimen>
@@ -8,4 +9,10 @@
     <dimen name="buttonMargin">5dp</dimen>
     <dimen name="textSizeNormal">20sp</dimen>
     <dimen name="buttonTextSize">60sp</dimen>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeTitle">30sp</dimen>
+    <dimen name="marginTop">30dp</dimen>
+>>>>>>> 11a1e5e876a5a999e80483ad2f37f9b12463e7eb
 </resources>
